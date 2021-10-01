@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189657747230",
+    "project_id": "caips-eccd2",
+    "storage_bucket": "caips-eccd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189657747230:android:4f4368c12391251ed0030f",
+        "android_client_info": {
+          "package_name": "com.example.caipsgcms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189657747230-avkam08apju2k84272gg3067l9qa54vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEOpJKGUZx0rvwAB6HduSk_f7pRcYeDlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189657747230-avkam08apju2k84272gg3067l9qa54vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">My-CAIPS</string>
+    <string name="when1">
+        Your immigration application taking too long to process? Your application got refused or you got an interview? or you are just curious to know what went into the processing and see the comments on your application from a immigration officer?
+
+Ordering CAIPS/ GCMS notes may help you to understand what is happening with your application or reason behind refusal or interview.
+
+These notes can be ordered by a Canadian Citizen or Permanent resident only, under Access to Information Act. Requester must have a signed consent form from the applicant.
+
+We can order these notes on your behalf and go over them with you. Just click on the link below and fill out your details on our secure portal. We will send you detailed instructions within 24 hours to initiate the process.
+
+    </string>
+    <string name="what">CAIPS is short for <i>Computer Assisted Immigration Processing System</i>.
+
+It is the computer system historically used by IRCC to process visa applications, and holds all the information on the current status of every type of immigration application being processed by overseas offices.
+
+IRCC has since switched to GCMS – <i>Global Case Management System.</i>
+
+It has functionality of CAIPS notes but more efficient. This system contains a detailed record of each applicant’s file, including correspondence from and to IRCC, documents received from the applicant, detailed notes from the officers reviewing the file.</string>
+    <string name="when2">b) you are looking for a copy of your whole application kit along with the supporting documents that were submitted to immigration for processing.
+
+                Option b) comes handy when you have not saved a copy of your application after submission or you were not provided one by your consultant and you want be sure about what information or supporting documents were sent. <b>Note–</b> in option b) you will NOT receive the notes / comments / remarks of immigration officer. You will ONLY receive whatever was submitted from client end to the visa office.</string>
+    <string name="price">Our price – <b>Only CAD $39.95</b> including taxes</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="html"><![CDATA[<!DOCTYPE HTML> <html> <head> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> <style> p {   text-align: center;   font-size: 60px;   margin-top: 0px; } </style> </head> <body>  <p id=\"demo\"></p>  <script> // Set the date we\'re counting down to var countDownDate = new Date(\"Jan 5, 2022 15:37:25\").getTime();  // Update the count down every 1 second var x = setInterval(function() {    // Get today\'s date and time   var now = new Date().getTime();        // Find the distance between now and the count down date   var distance = countDownDate - now;        // Time calculations for days, hours, minutes and seconds   var days = Math.floor(distance / (1000 * 60 * 60 * 24));   var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));   var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));   var seconds = Math.floor((distance % (1000 * 60)) / 1000);        // Output the result in an element with id=\"demo\"   document.getElementById(\"demo\").innerHTML = days + \"d \" + hours + \"h \"   + minutes + \"m \" + seconds + \"s \";        // If the count down is over, write some text    if (distance < 0) {     clearInterval(x);     document.getElementById(\"demo\").innerHTML = \"EXPIRED\";   } }, 1000); </script>  </body> </html>]]></string>
+    <string name="aboutUs"><br>My name is Upkar Singh and I’m a <b>Regulated Canadian Immigration Consultant (RCIC# R513627)</b> and a member in good standing with ICCRC.\n\n</br>
+
+<br>My first experience of Canada was as an international student and I fell in love with this beautiful country right away. Even as a temporary resident I could relate to this country for its diversity &amp; openness. Canada, I have found, is a land of opportunities for people who want to lead a peaceful and successful life.\n\n</br>
+
+<br>Having dealt with CIC (Citizenship and Immigration Canada) at different levels as an international student (trying to get my study permit approved) and later as a resident was crucial to developing my interest in the immigration process as a profession. I have personally experienced almost all the types of immigration applications for myself &amp; those I have helped since my time as an applicant.\n\n</br>
+
+<br>It was my interest in the immigration process and its results that made me realize my passion in helping applicants by providing them genuine and relevant advise. It was, based on the  positive feedback from individuals/friends/family I helped that I decided to work professionally as an immigration consultant.\n\n</br>
+
+<br>Based on my experiences and that of the people I worked with I created West Port Immigration to address issues of irrelevant information coupled with poor customer service rampant in the industry. Our team here is driven by the motto to never misguide clients and provide excellent customer service even after retaining you as a client, because our primary purpose is to build long-term relationships based on honesty and trust.\n\n</br>
+
+<br>To add to our client experience we have  partnered with organizations that share the same belief as us and have a proven track record of successful client relationships. After careful review of your case, if we are unable to help you with your application we will refer you to someone who might.\n\n</br>
+<br>After all, it’s not just the money we are into this business for, immigration is our passion! Welcome to the West Port Immigration family. We look forward to helping you start a new chapter in your life!\n\n</br>
+
+<br><b>Upkar Singh Sandhu</b>\n\n</br>
+
+<br>Email – info@westportimmi.ca\n\n</br>
+
+        <br>Phone/ WhatsApp / Telegram – <b>+1-403-401-4125</b>\n\n</br>
+
+        <br>Telegram –  https://t.me/up_car_san\n\n</br>
+    </string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
